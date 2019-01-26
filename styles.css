@@ -5,16 +5,17 @@ a {
 .index div {
   overflow: hidden;
   display: inline-block;
-  width: 250px;
-  height: 265px;
-  margin: 1em;
+  width: 210px;
+  height: 300px;
+  margin: 2em 1em;
   border: 2px solid #b7aeae;
   border-radius: 0.75em;
   text-align: center;
 }
 .index div img {
-  max-width: 245px;
+  max-width: 205px;
   height: 200px;
+  margin-top: 1.5em;
 }
 .index div.caption {
   display: block;
@@ -29,6 +30,7 @@ a {
 
 .detail .header {
   text-align: center;
+  margin-bottom: 1em;
 }
 .detail .header span {
   float: left;
