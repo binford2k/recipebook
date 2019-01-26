@@ -1,0 +1,61 @@
+a {
+  text-decoration: none;
+}
+
+.index div {
+  overflow: hidden;
+  display: inline-block;
+  width: 250px;
+  height: 265px;
+  margin: 1em;
+  border: 2px solid #b7aeae;
+  border-radius: 0.75em;
+  text-align: center;
+}
+.index div img {
+  max-width: 245px;
+  height: 200px;
+}
+.index div.caption {
+  display: block;
+  border: none;
+  margin: 1em 0 0 0;
+  padding: 0;
+  font-size: 1.25em;
+  font-weight: bold;
+  font-family: fantasy;
+  text-shadow: 2px 2px 0px #ebe7e7;
+}
+
+.detail .header {
+  text-align: center;
+}
+.detail .header span {
+  float: left;
+  font-size: 1.75em;
+}
+.detail h1 {
+  display: inline-block;
+  margin: 0 auto;
+}
+.detail .content {
+
+}
+.detail .content .image {
+  display: inline-block;
+  width: 450px;
+  margin: 0px;
+  padding: 0 5px 0 0;
+  border-width: 0;
+  border-right: 1px solid #f4eeee;
+  border-image: linear-gradient(to top, #f4eeee, rgba(0, 0, 0, 0)) 1 100%;
+}
+.detail .content .image img {
+  max-width: 445px
+}
+.detail .content .recipe {
+  display: inline-block;
+  width: 450px;
+  margin: 0;
+  vertical-align: top;
+}
