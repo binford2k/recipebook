@@ -1,0 +1,8 @@
+{% for recipe in site.[include.category] %}
+  <div>
+    <a href="{{recipe.url}}" onclick="OpenLink(this); return false">
+      <img src="{{recipe.image}}" />
+      <div class="caption">{{recipe.title}}</div>
+    </a>
+  </div>
+{% endfor %}

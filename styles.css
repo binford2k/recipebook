@@ -13,9 +13,11 @@ a {
   text-align: center;
 }
 .index div img {
-  max-width: 205px;
+  width: 205px;
   height: 200px;
-  margin-top: 1.5em;
+  object-fit: cover;
+  margin-top: .25em;
+  border-radius: 50%;
 }
 .index div.caption {
   display: block;
