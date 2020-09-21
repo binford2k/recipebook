@@ -63,3 +63,22 @@ a {
   margin: 0;
   vertical-align: top;
 }
+
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+
+  .index div {
+        width: 145px;
+        height: 175px;
+      }
+      .index div img {
+        width: 125px;
+        height: 125px;
+      }
+      .index div.caption {
+        font-size: .85em;
+      }
+
+}

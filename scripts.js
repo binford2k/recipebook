@@ -1,4 +1,4 @@
 /* jesus h christ */
 function OpenLink(theLink){
-    window.location.href = theLink.href;
+    location.href = theLink.href;
 }
