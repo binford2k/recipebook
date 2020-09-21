@@ -84,10 +84,10 @@ a {
   .detail .content .image {
     display: initial;
     float: left;
-    width: 50px;
+    width: 100px;
   }
   .detail .content .image img {
-    max-width: 45px
+    max-width: 95px
   }
   .detail .content .recipe {
     display: initial;
@@ -114,10 +114,10 @@ a {
   .detail .content .image {
     display: initial;
     float: left;
-    width: 50px;
+    width: 100px;
   }
   .detail .content .image img {
-    max-width: 45px
+    max-width: 95px
   }
   .detail .content .recipe {
     display: initial;
