@@ -1,6 +1,6 @@
 {% for recipe in site.[include.category] %}
   <div>
-    <a href="{{recipe.url | relative_url}}">
+    <a href="{{recipe.url | relative_url}}" onclick="OpenLink(this); return false">
       <img src="{{recipe.image | relative_url}}" />
       <div class="caption">{{recipe.title}}</div>
     </a>
