@@ -66,19 +66,37 @@ a {
 
 @media only screen
   and (min-device-width: 375px)
-  and (max-device-width: 812px)
-  and (-webkit-min-device-pixel-ratio: 3) {
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .index div {
+          width: 145px;
+          height: 175px;
+        }
+        .index div img {
+          width: 125px;
+          height: 125px;
+        }
+        .index div.caption {
+          font-size: .85em;
+        }
+
+}
+
+@media only screen
+  and (device-width: 375px)
+  and (device-height: 812px)
+  and (-webkit-device-pixel-ratio: 3) {
 
   .index div {
-        width: 145px;
-        height: 175px;
-      }
-      .index div img {
-        width: 125px;
-        height: 125px;
-      }
-      .index div.caption {
-        font-size: .85em;
-      }
-
+      width: 145px;
+      height: 175px;
+    }
+    .index div img {
+      width: 125px;
+      height: 125px;
+    }
+    .index div.caption {
+      font-size: .85em;
+    }
 }
