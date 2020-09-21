@@ -69,18 +69,29 @@ a {
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
-    .index div {
-          width: 145px;
-          height: 175px;
-        }
-        .index div img {
-          width: 125px;
-          height: 125px;
-        }
-        .index div.caption {
-          font-size: .85em;
-        }
+  .index div {
+    width: 145px;
+    height: 175px;
+  }
+    .index div img {
+      width: 125px;
+      height: 125px;
+    }
+    .index div.caption {
+      font-size: .85em;
+    }
 
+  .detail .content .image {
+    display: initial;
+    float: left;
+    width: 50px;
+  }
+  .detail .content .image img {
+    max-width: 45px
+  }
+  .detail .content .recipe {
+    display: initial;
+  }
 }
 
 @media only screen
@@ -99,4 +110,16 @@ a {
     .index div.caption {
       font-size: .85em;
     }
+
+  .detail .content .image {
+    display: initial;
+    float: left;
+    width: 50px;
+  }
+  .detail .content .image img {
+    max-width: 45px
+  }
+  .detail .content .recipe {
+    display: initial;
+  }
 }
