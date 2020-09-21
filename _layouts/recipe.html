@@ -7,7 +7,7 @@
       <h1>{{page.title}}</h1>
     </div>
     <div class="content">
-      <div class="image"><img src="{{site.baseurl}}/{{page.image}}" /></div>
+      <div class="image"><img src="{{page.image | relative_url}}" /></div>
       <div class="recipe">
         {{page.description | markdownify}}
         <h2>What You'll Need</h2>
