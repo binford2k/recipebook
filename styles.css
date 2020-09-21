@@ -48,8 +48,8 @@ a {
 .detail .content .image {
   display: inline-block;
   width: 450px;
-  margin: 0px;
-  padding: 0 5px 0 0;
+  margin: 0 3px 0 0;
+  padding: 0 3px 0 0;
   border-width: 0;
   border-right: 1px solid #f4eeee;
   border-image: linear-gradient(to top, #f4eeee, rgba(0, 0, 0, 0)) 1 100%;
