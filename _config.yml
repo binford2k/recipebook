@@ -32,7 +32,6 @@ github_username:  binford2k
 collections_dir: recipes
 collections:
   coffee:
-    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
