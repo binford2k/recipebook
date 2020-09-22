@@ -74,15 +74,15 @@ a {
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
-  .index div {
+  #book div {
     width: 145px;
     height: 175px;
   }
-    .index div img {
+    #book div img {
       width: 125px;
       height: 125px;
     }
-    .index div.caption {
+    #book div.caption {
       font-size: .85em;
     }
 
@@ -104,15 +104,15 @@ a {
   and (device-height: 812px)
   and (-webkit-device-pixel-ratio: 3) {
 
-  .index div {
+  #book div {
       width: 145px;
       height: 175px;
     }
-    .index div img {
+    #book div img {
       width: 125px;
       height: 125px;
     }
-    .index div.caption {
+    #book div.caption {
       font-size: .85em;
     }
 
