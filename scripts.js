@@ -1,5 +1,4 @@
 $( document ).ready(function() {
-  /* ios homescreen apps are weird. I don't want to do an SPA. */
   $("a.recipe").click(function (event) {
     var href = $(this).attr("data-dest");
 
@@ -7,9 +6,14 @@ $( document ).ready(function() {
     $("#"+href).show();
   });
 
+  $(".recipe.detail").on("swiperight", function(event){
+    $("#book").show();
+    $(".recipe.detail").hide();
+  });
+
   $("a.book").click(function (event) {
-        $("#book").show();
-        $(".recipe.detail").hide();
-      });
+    $("#book").show();
+    $(".recipe.detail").hide();
+  });
 
 });
