@@ -1,11 +1,15 @@
 $( document ).ready(function() {
   /* ios homescreen apps are weird. I don't want to do an SPA. */
-  $("a").click(function (event) {
-    var href = $(this).attr("href");
+  $("a.recipe").click(function (event) {
+    var href = $(this).attr("data-dest");
 
-    if(! href.startsWith('javascript')) {
-      event.preventDefault();
-      window.location = href;
-    }
+    $("#book").hide();
+    $("#"+href).show();
   });
+
+  $("a.book").click(function (event) {
+        $("#book").show();
+        $(".recipe.detail").hide();
+      });
+
 });

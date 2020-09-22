@@ -1,8 +1,33 @@
+<div id="book">
 {% for recipe in site.[include.category] %}
   <div>
-    <a href="{{recipe.url | relative_url}}">
+    <a data-dest="{{recipe.title | replace: ' ', '-'' | downcase}}" class="recipe">
       <img src="{{recipe.image | relative_url}}" />
       <div class="caption">{{recipe.title}}</div>
     </a>
   </div>
+{% endfor %}
+</div>
+
+{% for recipe in site.[include.category] %}
+<div class="detail recipe" id="{{recipe.title | replace: ' ', '-'' | downcase}}">
+  <div class="header">
+    <span><a class="book">⬅</a></span>
+    <h1>{{recipe.title}}</h1>
+  </div>
+  <div class="content">
+    <div class="image"><img src="{{recipe.image | relative_url}}" /></div>
+    <div class="recipe">
+      {{recipe.description | markdownify}}
+      <h2>What You'll Need</h2>
+      {% capture list %}
+        {% for ingredient in recipe.ingredients %}
+* {{ingredient-}}
+        {% endfor %}
+      {% endcapture %}
+      {{ list | markdownify }}
+      {{recipe.content | markdownify}}
+    </div>
+  </div>
+</div>
 {% endfor %}

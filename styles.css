@@ -1,8 +1,9 @@
 a {
   text-decoration: none;
+  cursor: pointer;
 }
 
-.index div {
+#book div {
   overflow: hidden;
   display: inline-block;
   width: 210px;
@@ -12,14 +13,14 @@ a {
   border-radius: 0.75em;
   text-align: center;
 }
-.index div img {
+#book div img {
   width: 205px;
   height: 200px;
   object-fit: cover;
   margin-top: .25em;
   border-radius: 50%;
 }
-.index div.caption {
+#book div.caption {
   display: block;
   border: none;
   margin: 1em 0 0 0;
@@ -28,6 +29,10 @@ a {
   font-weight: bold;
   font-family: fantasy;
   text-shadow: 2px 2px 0px #ebe7e7;
+}
+
+.detail {
+  display: none;
 }
 
 .detail .header {
