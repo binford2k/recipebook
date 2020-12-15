@@ -1,6 +1,6 @@
 <div id="book">
 {% for recipe in site.[include.category] %}
-  <div>
+  <div class="recipe-card">
     <a data-dest="{{recipe.title | replace: ' ', '-'' | downcase}}" class="recipe">
       <img src="{{recipe.image | relative_url}}" />
       <div class="caption">{{recipe.title}}</div>

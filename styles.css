@@ -3,7 +3,7 @@ a {
   cursor: pointer;
 }
 
-#book div {
+#book div.recipe-card {
   overflow: hidden;
   display: inline-block;
   width: 210px;
@@ -13,7 +13,7 @@ a {
   border-radius: 0.75em;
   text-align: center;
 }
-#book div img {
+#book div.recipe-card img {
   width: 205px;
   height: 200px;
   object-fit: cover;
