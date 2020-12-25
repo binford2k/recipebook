@@ -2,7 +2,7 @@ $( document ).ready(function() {
   $("a.recipe").click(function (event) {
     var href = $(this).attr("data-dest");
 
-    window.history.pushState('', null, href);
+    window.history.pushState('', null, null);
     $("#book").hide();
     $("#"+href).show();
   });
@@ -14,6 +14,7 @@ $( document ).ready(function() {
   });
 
   $("a.book").click(function (event) {
+    event.preventDefault();
     $("#book").show();
     $(".recipe.detail").hide();
   });
