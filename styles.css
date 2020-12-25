@@ -74,15 +74,15 @@ a {
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
-  #book div {
+  #book div.recipe-card {
     width: 145px;
-    height: 175px;
+    height: 195px;
   }
-    #book div img {
+    #book div.recipe-card img {
       width: 125px;
       height: 125px;
     }
-    #book div.caption {
+    #book div.recipe-card.caption {
       font-size: .85em;
     }
 
@@ -100,19 +100,19 @@ a {
 }
 
 @media only screen
-  and (device-width: 375px)
-  and (device-height: 812px)
+  and (min-device-width: 375px)
+  and (min-device-height: 812px)
   and (-webkit-device-pixel-ratio: 3) {
 
-  #book div {
+  #book div.recipe-card {
       width: 145px;
-      height: 175px;
+      height: 195px;
     }
-    #book div img {
+    #book div.recipe-card img {
       width: 125px;
       height: 125px;
     }
-    #book div.caption {
+    #book div.recipe-card.caption {
       font-size: .85em;
     }
 
