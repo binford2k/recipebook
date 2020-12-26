@@ -17,9 +17,11 @@ ingredients:
   - 1 heaping tablespoon of spiced butter mix.
   - 1 cinnamon stick
   - 1 star anise
+  - preferred milk or cream
 ---
-Mix the run and hot water/milk.
+Mix the rum and hot water.
 
-Stir in the spiced butter mix until fully melted.
+Stir in the spiced butter mix until fully melted. Add a splash of the milk you
+prefer. This is exquisite with coconut milk or cream.
 
 Top with a cinnamon stick and star anise. Dust with ground cinnamon if you have it.

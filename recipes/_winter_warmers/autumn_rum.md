@@ -21,4 +21,8 @@ Strain into a lowball glass over ice.
 Carefully twist and pinch the orange peel over the glass to release a small
 amount of oil. Drop the peel in.
 
-Float the apple round on top.
+Float the apple round on top. Or experiment with other fruits. A few pomegranate
+kernels, a slice of fig. We once made cocktails with rounds of dried bael fruit,
+and it was delicious.
+
+Be creative! 🎨
