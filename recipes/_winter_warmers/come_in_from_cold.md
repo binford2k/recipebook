@@ -10,10 +10,11 @@ description: |-
 ingredients:
   - 4 oz hot cocoa
   - 2 oz Aquavit
-  - Whipped cream
+  - Whipped cream of your preference
 ---
 Fill your mug about ¾ with hot cocoa. Stir in the aquavit and top with whatever
-kind of cream you prefer.
+kind of cream you prefer. Shaking up some heavy cream or half & half will work
+nicely, but use whatever cream you have on hand.
 
 If you do feel extra fancy, garnish with spices, marshmallows, cocoa bits.
 

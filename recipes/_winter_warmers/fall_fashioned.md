@@ -14,13 +14,14 @@ description: |-
 ingredients:
   - 2 oz apple cider
   - 2 oz bourbon
-  - 1 tsp brown sugar
+  - 1 tsp brown sugar or other sweetener
   - 1 cinnamon stick
   - dash or two of Angostora bitters
   - orange slice
   - (optional) slice of apple, persimmon, or other fruit
 ---
-Muddle the brown sugar and apple juice until fully dissolved.
+Muddle the brown sugar and apple juice until fully dissolved. Maple syrup would
+make an excellent sweetener as well.
 
 Swirl in the bourbon and add 1-2 large ice cubes.
 

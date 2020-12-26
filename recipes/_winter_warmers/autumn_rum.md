@@ -9,7 +9,7 @@ description: |-
 ingredients:
   - 2 oz dark rum
   - 1 oz apple cider
-  - 1 tsp brown sugar
+  - 1 tsp of a sweetener; brown sugar, honey, maple syrup, or sugar cube
   - 3 dashes Angostora bitters
   - twist of orange peel
   - (optional) thin round of apple
