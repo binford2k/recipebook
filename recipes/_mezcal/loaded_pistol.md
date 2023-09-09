@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Loaded Pistol
+title:  Pistol Witched
 image:  /images/loaded_pistol.jpg
 description: |-
   This witchy brew has a deep herbaceous complexity, aided by a dash of grapefruit

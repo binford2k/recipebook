@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Firing Squad
+title:  Mezcal's Callin'
 image:  /images/firing_squad.jpg
 description: |-
   A suitably interesting alternative to a Margarita. A few hefty dashes of bitters
@@ -15,4 +15,4 @@ ingredients:
   - 4 dashes Angostura bitters
 
 ---
-Shake until chilled, then strain into a rocks glass. Garnish with a lime wheel.
+Shake until chilled, then strain into a Collins glass. Garnish with a lime wheel.
