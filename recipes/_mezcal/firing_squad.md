@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Mezcal's Callin'
+title:  Mezcals Callin
 image:  /images/firing_squad.jpg
 description: |-
   A suitably interesting alternative to a Margarita. A few hefty dashes of bitters
