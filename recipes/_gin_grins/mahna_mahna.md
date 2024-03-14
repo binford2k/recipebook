@@ -17,7 +17,7 @@ ingredients:
   - 3/4 oz Aquavit, Krogstad
   - 1/2 oz Herbal liqueur, Strega
   - 1/2 oz Lemon juice
-  - 1 twist Lemon peel (as garnish)
+  - Lemon twist as garnish
 
 ---
 Add the liquids into a mixing glass with ice and stir until well-chilled.

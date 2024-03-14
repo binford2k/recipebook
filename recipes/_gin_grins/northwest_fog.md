@@ -10,7 +10,7 @@ ingredients:
   - 2 oz Aria gin
   - 1 oz Earl Grey simple syrup
   - a splash of amaro
-  - Lemon slice, for garnish
+  - Lemon slice as garnish
 
 ---
 Stir with ice in a rocks glass until well chilled. Garnish with a lemon slice,

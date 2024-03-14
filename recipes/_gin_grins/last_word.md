@@ -19,7 +19,7 @@ ingredients:
   - 3/4 ounce green Chartreuse
   - 3/4 ounce maraschino liqueur
   - 3/4 ounce lime juice
-  - Garnish: brandied cherry
+  - Brandied cherry as garnish
 
 ---
 Combine all ingredients in a mixing glass and stir with ice. Strain into a
