@@ -3,7 +3,14 @@ layout: recipe
 title:  Ding Dong the Witch is Dead
 image:  /images/ding-dong.png
 description: |-
-  I don't recall who we were celebrating, but the cocktail is tasty.
+  Did you know that Kissinger once said _"Covert action should not be confused
+  with missionary work"_ after leading hundreds of thousands of Kurds to their
+  deaths in order to destabilize the Middle East? Or that he facilitated the
+  Cambodian genocide, African civil wars, coups and death squads in Latin America?
+  He's directly responsible for more than three million deaths, maybe more than
+  anyone in human history.
+
+  Anyways, totally totally unrelated, but this cocktail is real tasty.
 
 ingredients:
   - 1.5 oz dry gin
