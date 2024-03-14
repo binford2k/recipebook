@@ -22,7 +22,7 @@ ingredients:
   - 1 ounce gin
   - 1 ounce Campari (or Aperol)
   - 1 ounce sweet vermouth
-  - Garnish: orange peel
+  - Orange twist as garnish
 
 ---
 Combine all ingredients in a mixing glass and stir with ice. Strain into a
