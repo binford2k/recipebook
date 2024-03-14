@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Ding Dong, the Witch is Dead
+title:  Ding Dong the Witch is Dead
 image:  /images/ding-dong.png
 description: |-
   I don't recall who we were celebrating, but the cocktail is tasty.

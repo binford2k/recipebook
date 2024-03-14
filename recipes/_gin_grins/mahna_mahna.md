@@ -1,13 +1,14 @@
 ---
 layout: recipe
 title:  Mah Nà Mah Nà
-image:  /images/mahna_mahna.png
+image:  /images/Mahna.jpg
 description: |-
   So why's it called Mah Nà Mah Nà? No one knows. But the song that's probably in
-  your head right now was written for the soundtrack of a 60's film about wild
-  sexual activity, lesbian nightclubs, and swinging in Sweden. The song, while not
-  exactly being sexy at all, accompanied a sultry sauna scene which gave its
-  original title "Viva la Sauna Svedese" ("Hooray for the Swedish Sauna").
+  your head right now was originally written for the soundtrack of a 60's film
+  about wild sexual activity, lesbian nightclubs, and swinging in Sweden. The
+  song, while not exactly being sexy at all, accompanied a sultry sauna scene
+  which gave it its original title "Viva la Sauna Svedese" ("Hooray for the
+  Swedish Sauna"). The Muppets came later.
 
   I don't know how you get from there to this cocktail, but there you have it.
 
