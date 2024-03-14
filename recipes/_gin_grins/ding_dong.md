@@ -7,8 +7,9 @@ description: |-
   with missionary work"_ after leading hundreds of thousands of Kurds to their
   deaths in order to destabilize the Middle East? Or that he facilitated the
   Cambodian genocide, African civil wars, coups and death squads in Latin America?
-  He's directly responsible for more than three million deaths, maybe more than
-  anyone in human history.
+  He's directly responsible for more than three million deaths, which definitely
+  puts him in the villain category. He finally did something to make the world a
+  better place and died in 2023.
 
   Anyways, totally totally unrelated, but this cocktail is real tasty.
 
