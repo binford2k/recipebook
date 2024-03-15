@@ -3,7 +3,7 @@ layout: recipe
 title:  Irish Swan
 image:  /images/irish_swan.png
 description: |-
-  The Feast of Saint Patrick (Lá Fhéile Pádraig)), is held on 17 March and
+  The Feast of Saint Patrick (Lá Fhéile Pádraig), is held on 17 March and
   celebrates the heritage and culture of the Irish in general. It's perceived as
   the middle day of spring and people expected that weather would improve, so
   farmers would begin planting potato and other crops. It's celebrated with
