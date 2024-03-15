@@ -13,12 +13,15 @@ description: |-
 
   In any case, I hope The Last Word will leave you, um, speechless.
 
+  > ℹ️ *The Carthusian monks deep in the mountains of France who produce Chartreuse
+  > from a top secret recipe cannot keep up with demand and there's a global shortage.
+  > I've replaced it with Dolin Génépy le Chamois.*
 
 ingredients:
-  - 3/4 ounce gin
-  - 3/4 ounce green Chartreuse
-  - 3/4 ounce maraschino liqueur
-  - 3/4 ounce lime juice
+  - 3/4 part gin
+  - 3/4 part Dolin Génépy le Chamois
+  - 3/4 part maraschino liqueur
+  - 3/4 part lime juice
   - Brandied cherry as garnish
 
 ---

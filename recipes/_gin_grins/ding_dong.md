@@ -14,11 +14,11 @@ description: |-
   Anyways, totally totally unrelated, but this cocktail is real tasty.
 
 ingredients:
-  - 1.5 oz dry gin
-  - 3/4 oz Strega
-  - 1/4 oz Grenadine
-  - 3 dashes of orange bitters
-  - 1+ oz Champagne
+  - 1.5 part dry gin
+  - 3/4 part Strega
+  - 1/4 part Grenadine
+  - 2 dashes of orange bitters
+  - Champagne to taste
 
 ---
 Shake all parts except Champagne in ice until well chilled. Strain into Collins

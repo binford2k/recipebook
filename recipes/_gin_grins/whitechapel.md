@@ -9,7 +9,7 @@ description: |-
   complexity and crucially, fewer preconceptions.
 
 ingredients:
-  - 1 1/2 ounces Old Tom gin, eg Tanqueray
+  - 1 1/2 ounces Old Tom gin
   - 1 ounce blanc vermouth, preferably Dolin
   - 1/4 ounce Bénédictine
   - 2 dashes orange bitters

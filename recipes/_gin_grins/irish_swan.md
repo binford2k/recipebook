@@ -15,7 +15,7 @@ description: |-
   your favorite Irelander.
 
 ingredients:
-  - 2 parts London Dry Gin
+  - 2 parts Ford's London Dry Gin
   - 2 parts Irish Whiskey
   - 1 part Sloe Gin
   - 1 part sweet vermouth

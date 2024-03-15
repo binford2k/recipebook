@@ -9,7 +9,7 @@ description: |-
 ingredients:
   - 2 oz Aria gin
   - 1 oz Earl Grey simple syrup
-  - a splash of amaro
+  - a splash of Bénédictine
   - Lemon slice as garnish
 
 ---

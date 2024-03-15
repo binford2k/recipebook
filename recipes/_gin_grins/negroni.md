@@ -19,9 +19,9 @@ description: |-
 
 
 ingredients:
-  - 1 ounce gin
-  - 1 ounce Campari (or Aperol)
-  - 1 ounce sweet vermouth
+  - 1 part gin
+  - 1 part Campari (or Aperol)
+  - 1 part sweet vermouth
   - Orange twist as garnish
 
 ---

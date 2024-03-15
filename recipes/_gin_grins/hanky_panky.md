@@ -9,8 +9,8 @@ description: |-
   him to exclaim “By Jove! That is the real hanky-panky!” The name stuck.
 
 ingredients:
-  - 1 1/2 oz gin
-  - 1 1/2 oz sweet vermouth
+  - 1 1/2 part gin
+  - 1 1/2 part sweet vermouth
   - 2 dashes Fernet-Branca
   - orange twist
 
