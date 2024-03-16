@@ -20,7 +20,7 @@ description: |-
 ingredients:
   - 3/4 part gin
   - 3/4 part Dolin Génépy le Chamois
-  - 3/4 part maraschino liqueur
+  - 3/4 part Luxardo maraschino liqueur
   - 3/4 part lime juice
   - Brandied cherry as garnish
 

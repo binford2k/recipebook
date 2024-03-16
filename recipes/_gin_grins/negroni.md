@@ -17,7 +17,6 @@ description: |-
   My preference is a less bitter cocktail, so mine is the more controversial take
   of replacing the Campari with Aperol. You can try it either way!
 
-
 ingredients:
   - 1 part gin
   - 1 part Campari (or Aperol)

@@ -16,7 +16,7 @@ description: |-
 ingredients:
   - 1.5 part dry gin
   - 3/4 part Strega
-  - 1/4 part Grenadine
+  - 1/2 part crème de cassis
   - 2 dashes of orange bitters
   - Champagne to taste
 

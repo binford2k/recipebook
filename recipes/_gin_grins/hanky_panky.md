@@ -11,7 +11,7 @@ description: |-
 ingredients:
   - 1 1/2 part gin
   - 1 1/2 part sweet vermouth
-  - 2 dashes Fernet-Branca
+  - 2 dashes Cynar
   - orange twist
 
 ---
