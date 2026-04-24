@@ -11,12 +11,11 @@ description: |-
   There are several takes on a London Fog cocktail, from a blended Scotch concoction
   to a smoky absinthe masterpiece. This one simply riffs on the Earl Grey tea
   drink, and brings it home to the good old PNW for a local twist. We first had
-  this cocktail at the Hi-Top tavern around the way.
+  a version of this cocktail at the Hi-Top tavern around the way.
 
 ingredients:
   - 2 part Aria gin
-  - 1 part Earl Grey simple syrup
-  - a splash of Bénédictine
+  - 1 part Italicus bergamot liqueur
   - Lemon slice as garnish
 
 ---

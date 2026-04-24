@@ -12,7 +12,7 @@ description: |-
   replace the Champagne with soda water.
 
 ingredients:
-  - 1 part gin
+  - 1 part Empress gin
   - 1/2 part lemon juice
   - 1/2 part simple syrup
   - 3 parts Champagne (or soda or other kind of bubbly)
