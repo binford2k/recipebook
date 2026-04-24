@@ -15,11 +15,14 @@ description: |-
   using dark rum gets you a Kingston.
 
   My preference is a less bitter cocktail, so mine is the more controversial take
-  of replacing the Campari with Aperol. You can try it either way!
+  of replacing the Campari with Aperol. Or if you'd like to amp it up to 11, try
+  it ***Magröni*** style by using Malört instead!
+
+  You can try it any way you like it!
 
 ingredients:
   - 1 part gin
-  - 1 part Campari (or Aperol)
+  - 1 part Campari, Aperol, or Malört
   - 1 part sweet vermouth
   - Orange twist as garnish
 

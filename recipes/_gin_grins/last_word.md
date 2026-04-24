@@ -15,7 +15,7 @@ description: |-
 
   > ℹ️ *The Carthusian monks deep in the mountains of France who produce Chartreuse
   > from a top secret recipe cannot keep up with demand and there's a global shortage.
-  > I've replaced it with Dolin Génépy le Chamois.*
+  > I've replaced it with **Dolin Génépy le Chamois**.*
 
 ingredients:
   - 3/4 part gin

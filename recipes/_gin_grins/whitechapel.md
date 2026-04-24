@@ -6,7 +6,7 @@ description: |-
   Whitechapel is a swank pub in the San Francisco Embassy hotel. This cocktail
   combines the light sweetness of an Old Tom gin with blanc vermouth and a splash
   of Bénédictine for a cocktail that drinks like a Martini, but with more
-  complexity and crucially, fewer preconceptions and less pretensious.
+  complexity and crucially, fewer preconceptions and less pretentious.
 
 ingredients:
   - 1 1/2 part Old Tom gin
