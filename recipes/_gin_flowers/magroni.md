@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Negroni
+title:  Magröni
 image:  /images/negroni.png
 description: |-
   The Negroni is said to have been invented in Florence by the dashing Italian
@@ -14,15 +14,11 @@ description: |-
   example, if you substituted bourbon for the gin you'd get a Boulevardier and
   using dark rum gets you a Kingston.
 
-  My preference is a less bitter cocktail, so mine is the more controversial take
-  of replacing the Campari with Aperol. Or if you'd like to amp it up to 11, try
-  it ***Magröni*** style by using Malört instead!
-
-  You can try it any way you like it!
+  This take on it amps things up to 11, by swapping Malört for the Campari!
 
 ingredients:
   - 1 part gin
-  - 1 part Campari, Aperol, or Malört
+  - 1 part Malört
   - 1 part sweet vermouth
   - Orange twist as garnish
 

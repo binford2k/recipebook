@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Gracias a Mule
+title:  Gracias a Mula
 image:  /images/gracias_a_mule.jpg
 description: |-
   Gracias a Dios Oaxacan Gin is a fascinating newcomer which starts as
