@@ -8,6 +8,8 @@ description: |-
   and smoky. Nixta, on the other hand, is sweet warm honey cornbread melting in
   your mouth.
 
+  Maybe you'd like to share a golden kiss with someone special?
+
 ingredients:
   - 1 part Gracias a Dios Agave Gin Oaxaca
   - 1 part Nixta Licor de Elote
