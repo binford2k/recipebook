@@ -11,10 +11,13 @@ description: |-
   If you'd like it to be lower proof, then just use a different kind of bubbly;
   replace the Champagne with soda water.
 
+  You can also shake it up and take this Gimlet style by replacing the simple
+  syrup with Elderflower liquor.
+
 ingredients:
   - 1 part Empress gin
   - 1/2 part lemon juice
-  - 1/2 part simple syrup
+  - 1/2 part simple syrup (or elderflower liquor)
   - 3 parts Champagne (or soda or other kind of bubbly)
   - lemon twist
 
