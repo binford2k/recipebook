@@ -16,6 +16,8 @@ description: |-
   pushed back against a government ruling by decree, limiting the freedom
   of the press, manipulating elections, and more.
 
+  If you're feeling adventurous, try garnishing with a cherry tomato.
+
 ingredients:
   - 2 parts Assembly gin
   - 1/2 part lemon juice
