@@ -13,7 +13,7 @@ description: |-
 ingredients:
   - 1 part Gracias a Dios Agave Gin Oaxaca
   - 1 part Nixta Licor de Elote
-  - 1/2 part sweet vermouth
+  - 1/2 part Accompani Mari Gold
   - a dash or two of chocolate bitters to taste
   - lime wedge
 
